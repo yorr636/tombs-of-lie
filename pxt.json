@@ -1,5 +1,6 @@
 {
     "name": "Tombs of Lie",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
